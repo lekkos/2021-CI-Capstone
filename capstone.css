@@ -1,0 +1,33 @@
+#header {
+    text-align: center;
+    font-size: 30px;
+}
+
+#container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#sidebar {
+    float: right;
+    width: 250px;
+    height: 100vh;
+    overflow: auto;
+    padding: 10px;
+    background: #F0F0F6;
+}
+
+#sidebarLeft {
+    float: left;
+    width: 250px;
+    height: 100vh;
+    overflow: auto;
+    padding: 10px;
+    background: #F0F0F6;
+}
+
+#content {
+    overflow: hidden;
+    text-align: center;
+}
+
